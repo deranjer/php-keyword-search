@@ -6,7 +6,7 @@ This is a very basic PHP based search where you enter links tied with keywords a
 
 This is stored in a MYSQL database
 
-MYSQL database setup:
+# MYSQL database setup:
 
 Create a db with one table (Currently MUST be called "Links" because it is currently hard coded), then enter all of the relevant information into db-connection.php. Data format is IP ADDRESS//USER//PASSWORD//DATABASE
 
